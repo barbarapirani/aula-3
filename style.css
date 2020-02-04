@@ -1,0 +1,17 @@
+#"banner" {
+         <style> 
+         color:green
+         width="350" height="200"
+         position:absolute
+         </style>
+     }
+
+#"img1" {
+    <style>
+    padding:0
+    position:absolute
+}
+
+#"footer" {
+    text-align: center;
+    margin: 20px 20px;}

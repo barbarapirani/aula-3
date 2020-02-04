@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <h1> Teste aula 3 Barbara </h1>
+        </head>
+<body>
+    <div id="banner">   
+        <h1>Titulo do artigo</h1>
+    </div>
+
+    <main>
+        <h2>Sub-título</h2>
+        <p>Lorem ipsum <strong>dolor sit amet</strong> consectetur, adipisicing elit. Aliquid, fugiat quae dolorem earum saepe praesentium possimus dolorum culpa! Rerum voluptas quisquam officiis aliquid veniam soluta, quam dolores omnis magnam praesentium.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente molestias ullam quasi blanditiis, nemo molestiae.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente molestias ullam quasi blanditiis, nemo molestiae.</p>
+<br>
+        <div id="img1">
+        <figure>
+            <img src="file:///C:/Users/Acer/Downloads/aula-3%20(1)/aula-3/image.jpg" width="350" height="200" >
+            <figcaption>Figura 1. Imagem</figcaption>
+        </figure>
+        </div>
+
+<br>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente molestias ullam quasi blanditiis, nemo molestiae.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br/> Sapiente molestias ullam quasi blanditiis, nemo molestiae.</p>
+    <ul>
+      <li>Lorem ipsum dolor sit amet;</li>
+      <li>Lorem ipsum dolor sit amet;</li>
+      <li>Lorem ipsum dolor sit amet;</li>
+      <li>Lorem ipsum dolor sit amet;</li>
+      <li>Lorem ipsum dolor sit amet;</li>
+    </ul>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta dolorem iure vitae sapiente cumque velit error porro beatae consequuntur iusto labore tenetur eum nam, rerum temporibus molestiae dicta dolore quia!</p>
+    </main>
+    <br>
+    <br>
+    <br>
+    <div id="footer">
+    <footer>
+        Powered by <strong>us</strong>
+      </footer>
+    </div>
+    </body>
+    </html>

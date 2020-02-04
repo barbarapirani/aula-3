@@ -1,0 +1,9 @@
+#id-da-div"banner" {
+         <style> 
+         color:green
+         width="350" height="200"
+         padding:0
+         position:absolute
+         </style>
+     }
+
